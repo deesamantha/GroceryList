@@ -1,0 +1,18 @@
+c:\users\mnewport\documents\visual studio 2012\Projects\GroceryList\GroceryList\bin\Debug\GroceryList.exe.config
+c:\users\mnewport\documents\visual studio 2012\Projects\GroceryList\GroceryList\bin\Debug\GroceryList.exe
+c:\users\mnewport\documents\visual studio 2012\Projects\GroceryList\GroceryList\bin\Debug\GroceryList.pdb
+c:\users\mnewport\documents\visual studio 2012\Projects\GroceryList\GroceryList\obj\Debug\GroceryList.csprojResolveAssemblyReference.cache
+c:\users\mnewport\documents\visual studio 2012\Projects\GroceryList\GroceryList\obj\Debug\GroceryList.Form1.resources
+c:\users\mnewport\documents\visual studio 2012\Projects\GroceryList\GroceryList\obj\Debug\GroceryList.Properties.Resources.resources
+c:\users\mnewport\documents\visual studio 2012\Projects\GroceryList\GroceryList\obj\Debug\GroceryList.csproj.GenerateResource.Cache
+c:\users\mnewport\documents\visual studio 2012\Projects\GroceryList\GroceryList\obj\Debug\GroceryList.exe
+c:\users\mnewport\documents\visual studio 2012\Projects\GroceryList\GroceryList\obj\Debug\GroceryList.pdb
+C:\Users\Samantha\Downloads\GroceryList\GroceryList\GroceryList\bin\Debug\GroceryList.exe.config
+C:\Users\Samantha\Downloads\GroceryList\GroceryList\GroceryList\obj\Debug\GroceryList.exe
+C:\Users\Samantha\Downloads\GroceryList\GroceryList\GroceryList\obj\Debug\GroceryList.pdb
+C:\Users\Samantha\Downloads\GroceryList\GroceryList\GroceryList\bin\Debug\GroceryList.exe
+C:\Users\Samantha\Downloads\GroceryList\GroceryList\GroceryList\bin\Debug\GroceryList.pdb
+C:\Users\Samantha\Downloads\GroceryList\GroceryList\GroceryList\obj\Debug\GroceryList.csprojResolveAssemblyReference.cache
+C:\Users\Samantha\Downloads\GroceryList\GroceryList\GroceryList\obj\Debug\GroceryList.Form1.resources
+C:\Users\Samantha\Downloads\GroceryList\GroceryList\GroceryList\obj\Debug\GroceryList.Properties.Resources.resources
+C:\Users\Samantha\Downloads\GroceryList\GroceryList\GroceryList\obj\Debug\GroceryList.csproj.GenerateResource.Cache
